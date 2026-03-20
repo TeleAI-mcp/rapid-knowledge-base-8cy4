@@ -1,2 +1,3 @@
-# rapid-knowledge-base-8cy4
-Automated issue comment bot repository
+# Rapid Knowledge Base 8Cy4
+
+Automated issue comment bot repository.
